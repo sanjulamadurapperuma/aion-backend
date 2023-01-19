@@ -1,0 +1,28 @@
+{
+	"email": "jonathan@sanjula.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+	"jobTitle": "Staff Engineer",
+	"name": "Jonathan Casey",
+	"phoneNumber": "+132453453123"
+}
+{
+	"email": "kate@sanjula.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+	"jobTitle": "Android Engineer",
+	"name": "Kate Thompson",
+	"phoneNumber": "+167532346344"
+}
+{
+	"email": "david@sanjula.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+	"jobTitle": "UI/UX Engineer",
+	"name": "David Smith",
+	"phoneNumber": "+173859690265"
+}
+{
+	"email": "trotter@sanjula.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar4.png",
+	"jobTitle": "CTO",
+	"name": "Trotter Sylvester",
+	"phoneNumber": "+1438532854322"
+}
